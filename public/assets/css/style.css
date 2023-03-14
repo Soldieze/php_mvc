@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: green;
+}
+
+#barre{
+    padding: .5rem;
+    border-radius: 20px;
+}
+
+#button{
+    padding: .5rem;
+}
